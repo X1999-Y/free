@@ -5,30 +5,6 @@
 	{"key":"云盘登录","name":"云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 	{"key":"配置中心","name":"云盘配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./danmu.jar;md5;02d800e8b76465acdd1f989d6b7db868"},
   	{"key":"荐片","name":"荐片｜磁力","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-     {
-      "key": "素白",
-      "name": "素白｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/素白白.json"
-    },
-    {
-      "key": "虎虎",
-      "name": "虎虎｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/虎虎.json"
-    },
-      {
-      "key": "csp_Free",
-      "name": "Free｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/Free影视.json"
-    },
       {
       "key": "49zy",
       "name": "49Z｜影视",
@@ -415,8 +391,6 @@
       "filterable": 1,
       "ext": "./lib/哔哩健身.json"
     },
-	{"key":"荐片弹幕","name":"荐片｜弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./danmu.jar"},
-	{"key":"玩偶弹幕","name":"玩偶｜弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"./DM/玩偶哥哥.json","token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar"},
 	{"key":"New6v","name":"New6V｜磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 	{"key":"两个磁力","name":"两个｜磁力","type":3,"api":"./JS/drpy.min.js","ext":"./JS/两个磁力.js"},
 	{"key":"SeedHub","name":"SeedHub｜磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
@@ -477,7 +451,7 @@
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 "lives":
-	[{"name":"live","type":0,"url":"http://app.aiyinch.cn/xzzb/xzvip.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	[{"name":"live","type":0,"url":"http://app.aiyinch.cn/xzzb/xzzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "ijk":

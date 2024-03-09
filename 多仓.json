@@ -2,15 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "内置线路",
-      "sourceUrl": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/free/main/xzfree.json"
     },
     {
       "sourceName": "内置线路（备用1）",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzys/main/xzvip.json"
-    },
-    {
-      "sourceName": "内置线路（备用2）",
-      "sourceUrl": "https://vip.123pan.cn/1819018655/jk/xzysvip/xzvip.json"
+      "sourceUrl": "https://jihulab.com/xuanzhuapp/xz/-/raw/main/xz.json"
     },
     {
       "sourceName": "综合线路",

@@ -1,0 +1,89 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "内置线路",
+      "sourceUrl": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+    },
+    {
+      "sourceName": "内置线路（备用1）",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzys/main/xzvip.json"
+    },
+    {
+      "sourceName": "内置线路（备用2）",
+      "sourceUrl": "https://vip.123pan.cn/1819018655/jk/xzysvip/xzvip.json"
+    },
+    {
+      "sourceName": "综合线路",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzzh/main/api.json"
+    },
+    {
+      "sourceName": "影视专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/api.json"
+    },
+    {
+      "sourceName": "磁力专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E7%A3%81%E5%8A%9B/api.json"
+    },
+        {
+      "sourceName": "云盘专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E4%BA%91%E7%9B%98/api.json"
+    },
+    {
+      "sourceName": "动漫专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E5%8A%A8%E6%BC%AB/api.json"
+    },
+        {
+      "sourceName": "文艺专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E6%96%87%E8%89%BA/api.json"
+    },
+    {
+      "sourceName": "体育专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E4%BD%93%E8%82%B2/api.json"
+    },
+    {
+      "sourceName": "教育专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E6%95%99%E8%82%B2/api.json"
+    },
+    {
+      "sourceName": "直播专线",
+      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/X1999-Y/xzdc/main/%E7%9B%B4%E6%92%AD/api.json"
+    },
+    {
+      "sourceName": "肥猫",
+      "sourceUrl": "http://肥猫.live"
+    },
+    {
+      "sourceName": "短剧",
+      "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json"
+    },
+    {
+      "sourceName": "荷城茶秀",
+      "sourceUrl": "http://rihou.cc:88/荷城茶秀"
+    },
+        {
+      "sourceName": "菜妮丝",
+      "sourceUrl": "https://tvbox.cainisi.cf"
+    },
+        {
+      "sourceName": "采集资源",
+      "sourceUrl": "https://cloud.lxweb.cn/f/JEVZuk/xdcj.json"
+    },
+        {
+      "sourceName": "业余线路",
+      "sourceUrl": "http://lige.unaux.com/?url=http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
+    },
+            {
+      "sourceName": "阿里集搜",
+      "sourceUrl": "http://yydf.540734621.xyz/yydf/yydf/bd/ali.json"
+    },
+            {
+      "sourceName": "饭太硬",
+      "sourceUrl": "http://饭太硬.top/tv"
+    },
+            {
+      "sourceName": "云星日记",
+      "sourceUrl": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
+    }
+
+  ]
+}
